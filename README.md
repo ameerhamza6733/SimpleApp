@@ -1,5 +1,5 @@
 # SampleApp
-This is sample Android app to show case how we can use MVVM(Live Data , ViewModel, room and retrofit ) with clean architure kotlin coroutines, DI with hilt, viewBinding
+This is sample Android app to show case how we can use MVVM(Live Data , ViewModel, room and retrofit ) with clean architecture  kotlin coroutines, DI with hilt, viewBinding
 
 
 ## Currency converter demo app
